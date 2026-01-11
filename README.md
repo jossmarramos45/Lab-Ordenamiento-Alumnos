@@ -25,4 +25,3 @@ Ejecutar la clase `LaboratorioAlumno` para ver el arreglo antes y después del o
 
 ## Autor
 Jossmar
-# Lab-Ordenamiento-Alumnos
